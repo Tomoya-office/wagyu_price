@@ -58,8 +58,6 @@ footer {
 }
 
 
-
-
 /*追記*/
 .card {
   border-radius: 0;
@@ -87,4 +85,9 @@ footer {
   height: 100%;
   border-radius: 50%;
  }
+}
+
+/*実技*/
+.font-size{
+  font-size: 1.85rem;
 }
